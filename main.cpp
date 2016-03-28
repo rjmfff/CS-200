@@ -158,4 +158,5 @@ void SetNeighbors( Room rooms[18], int room, int neighbor, Direction dir )
     rooms[neighbor].SetNeighbor( opp, room );
 }
 
+// =^o.o^=
 
